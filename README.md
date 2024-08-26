@@ -1,1 +1,1 @@
-# Slang Classification Model
+# Toxic Comment Classification Model
